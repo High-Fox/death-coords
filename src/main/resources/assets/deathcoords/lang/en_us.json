@@ -1,0 +1,16 @@
+{
+	"key.deathcoords.keyCategory": "Death Coords",
+	"key.deathcoords.toggleCoords": "Toggle Death Coords",
+	
+	"config.deathcoords.title": "Death Coords Config",
+	"config.deathcoords.category.main": "General",
+	
+	"config.deathcoords.displayAfterDeath": "Display Coords After Death",
+	"config.deathcoords.displayAfterDeath.tooltip": "Automatically display your death coordinates after you die",
+	
+	"config.deathcoords.coordsPosition": "Coordinates Position",
+	"config.deathcoords.coordsPosition.top_left": "Top Left",
+	"config.deathcoords.coordsPosition.top_right": "Top Right",
+	"config.deathcoords.coordsPosition.bottom_left": "Bottom Left",
+	"config.deathcoords.coordsPosition.bottom_right": "Bottom Right"
+}

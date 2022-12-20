@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "highfox.deathcoords.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"InGameHudMixin",
+		"ClientPlayNetworkHandlerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
